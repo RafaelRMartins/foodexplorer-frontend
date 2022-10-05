@@ -1,0 +1,23 @@
+export default {
+  COLORS: {
+    PRIMARY_900: "#000A0F",
+    PRIMARY_800: "#00111A",
+    PRIMARY_700: "#0D1D25",
+    PRIMARY_600: "#192227",
+    PRIMARY_400: "#82F3FF",
+    PRIMARY_LINEAR_1: "#091E26",
+    PRIMARY_LINEAR_2: "#00131C",
+  
+    TEXT_300: "#7C7C8A",
+    TEXT_200: "#C4C4CC",
+    TEXT_100: "#E1E1E6",
+    TEXT_EXCLUIR: "#AB4D55",
+  
+    ALERT: "#AB222E",
+    ALERT: "#FBA94C",
+    ALERT: "#04D361",
+    
+    RED_200: "#750310",
+    RED_100: "#92000E"
+  }
+} 
