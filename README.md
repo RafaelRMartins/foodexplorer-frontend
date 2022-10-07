@@ -14,4 +14,4 @@ Para rodar essa aplicação faça o download do projeto, em seguida utilize o co
   npm install
 ```
 
-Para utilizar uma api local faça o download do nosso back-end, e em seguida mude a baseURL em src/services/api.js para sua url local que por padrão é "http://localhost:3333"
+Para utilizar uma api local faça o download do nosso [back-end](https://github.com/RafaelRMartins/foodexplorer-backend), e em seguida mude a baseURL em src/services/api.js para sua url local que por padrão é "http://localhost:3333"
