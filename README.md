@@ -1,6 +1,6 @@
 # Projeto FoodExplorer da RocketSeat 🚀
 
-![Banner](https://cdn.discordapp.com/attachments/974659560260399174/1027502456009150484/Capa-FoodExplorer.jpg)
+![Banner](https://ibb.co/b7XMLBZ)
 
 ## Descrição
 
